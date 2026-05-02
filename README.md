@@ -20,3 +20,9 @@ The Automated Backup Web Manager is a Linux-based system designed to automate fi
 - Tar Utility
 - PHP
 - Apache Web Server
+
+📦 Deliverables
+- Backup automation script
+- Web interface
+- Log management system
+- Backup storage system
